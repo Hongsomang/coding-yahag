@@ -54,6 +54,6 @@
 
       ```<ol><li>html</li></ol>```
 
-  + 예제 [ex_html3.html][https://github.com/Hongsomang/coding-yahag/blob/master/html이론/ex_html3.html]
+  + 예제 <a href="https://github.com/Hongsomang/coding-yahag/blob/master/html이론/ex_html3.html">ex_html3.html</a>
 
     ​
