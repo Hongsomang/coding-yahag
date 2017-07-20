@@ -14,11 +14,11 @@
 
     ```안녕하세요<Strong>생활코딩</Strong>입니다.```
 
-    예제 :[ex_html1.html][file:///C:/Users/dsm2016/Documents/GitHub/coding-yahag/ex_html.html]
+    예제 :<a href="https://github.com/Hongsomang/coding-yahag/blob/master/html%EC%9D%B4%EB%A1%A0/ex_html.html">ex_html1.html</a>
 
 + 속성
 
-  + a 태그
+  + a 태
 
     + 링크를 나타내는 태그
 
@@ -28,7 +28,7 @@
 
       ```<a href="http://opentutorials.org/course/1" taget="_blank">생활코딩</a>```
 
-      예제:[ex_html2.html][file:///C:/Users/dsm2016/Documents/GitHub/coding-yahag/ex_html2.html]
+      예제:<a href="https://github.com/Hongsomang/coding-yahag/blob/master/html%EC%9D%B4%EB%A1%A0/ex_html2.html">ex_html2.html</a>
 
 + 리스트
 
@@ -54,6 +54,6 @@
 
       ```<ol><li>html</li></ol>```
 
-  + 예제 [ex_html3.html][file:///C:/Users/dsm2016/Documents/GitHub/coding-yahag/ex_html3.html]
+  + 예제 [ex_html3.html][https://github.com/Hongsomang/coding-yahag/blob/master/html이론/ex_html3.html]
 
     ​
